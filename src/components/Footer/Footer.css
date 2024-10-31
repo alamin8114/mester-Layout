@@ -1,0 +1,9 @@
+.footer {
+    @apply py-6 bg-[#EC8305]
+}
+.footer-text{
+    @apply flex justify-center items-center
+}
+.footer-text h1{
+    @apply text-[30px] text-[#00FF9C] 
+}

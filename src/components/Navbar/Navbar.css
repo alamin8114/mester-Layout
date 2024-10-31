@@ -1,0 +1,15 @@
+.navbar{
+    @apply py-5 bg-[#BFECFF]
+}
+.nav-row{
+    @apply flex justify-between items-center
+}
+.logo h1{
+    @apply text-[36px] font-Itim text-[#091057] font-bold
+}
+.nav ul{
+    @apply flex gap-4 mr-8
+}
+.nav ul li a{
+    @apply text-[18px] text-green-700 font-bold font-Ubuntu hover:text-[20px]
+}
